@@ -18,9 +18,10 @@
 ---
 
 ## 🏆 Professional Profile  
-- Data Scientist with 5+ years of experience in machine learning, statistical modeling, and predictive analytics, delivering data-driven solutions across multiple projects.  
+- Master’s in Data Science graduate with 4+ years of professional experience as an Application Developer at IBM.
+-  Engaged in-depth academic and practical training in machine learning, statistical modeling, and predictive analytics, delivering data-driven solutions across multiple projects.  
 - Expert in Python, R, and SQL, with a strong foundation in data preprocessing, feature engineering, and model optimization.  
-- Proficient in cloud platforms (AWS, Azure) and big data technologies (Spark, Hadoop) for scalable machine learning model deployment.  
+- Proficient in cloud platforms (AWS, Azure), data visualization (Tableau, Matplotlib, Seaborn), and big data technologies (Spark, Hadoop) for scalable machine learning model deployment.  
 - Strong analytical and optimization skills, leveraging EDA, hypothesis testing, and data visualization to uncover trends and insights.  
 
 ---
@@ -64,23 +65,13 @@ Git | GitHub | GitLab | Agile (Scrum/Kanban) | JIRA
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Professional Experience    
 
-### Data Scientist, Airbnb  
-*Jan 2024 – Present | Remote, USA*  
-- Developed demand-based pricing models for real-time rental adjustments.  
-- Designed recommendation systems improving user booking conversions.  
-- Conducted large-scale A/B testing to optimize user experience.  
-- Implemented fraud detection algorithms for transaction security.  
-- Collaborated with cross-functional teams to drive strategic insights.  
-
-### Data Science Engineer, IBM  
-*Jul 2019 – Jul 2023 | India*  
-- Engineered ML models for predictive analytics, enhancing operational efficiency.  
-- Architected ETL pipelines for integrated reporting.  
-- Developed NLP models for customer feedback automation.  
-- Designed anomaly detection algorithms for fraud prevention.  
-- Mentored junior data scientists, fostering team productivity.  
+### Application Developer, (Project: WPP-USA), IBM 
+*Sep 2019 – Jul 2023 |India*  
+- Managed accounting operations in INFOR Smartstream, including user profile/account creation, data file uploads, and SQL query development for database extraction.  
+- Resolved ServiceNOW tickets promptly, addressing client needs and improving customer satisfaction.  
+- Partnered with systems analysts, engineers, and programmers to identify system limitations, enhance capabilities, and resolve software defects.  
 
 ---
 
