@@ -68,7 +68,7 @@ Git | GitHub | GitLab | Agile (Scrum/Kanban) | JIRA
 ## 💼 Professional Experience    
 
 ### Application Developer, (Project: WPP-USA), IBM 
-*Sep 2019 – Jul 2023 |India*  
+*June 2019 – Jul 2023 |India*  
 - Managed accounting operations in INFOR Smartstream, including user profile/account creation, data file uploads, and SQL query development for database extraction.  
 - Resolved ServiceNOW tickets promptly, addressing client needs and improving customer satisfaction.  
 - Partnered with systems analysts, engineers, and programmers to identify system limitations, enhance capabilities, and resolve software defects.  
