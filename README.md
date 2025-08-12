@@ -18,11 +18,11 @@
 ---
 
 ## 🏆 Professional Profile  
-- Master’s in Data Science graduate with 4+ years of professional experience as an Application Developer at IBM.
--  Engaged in-depth academic and practical training in machine learning, statistical modeling, and predictive analytics, delivering data-driven solutions across multiple projects.  
-- Expert in Python, R, and SQL, with a strong foundation in data preprocessing, feature engineering, and model optimization.  
-- Proficient in cloud platforms (AWS, Azure), data visualization (Tableau, Matplotlib, Seaborn), and big data technologies (Spark, Hadoop) for scalable machine learning model deployment.  
-- Strong analytical and optimization skills, leveraging EDA, hypothesis testing, and data visualization to uncover trends and insights.  
+-	Data Scientist with 6+ months of experience in machine learning, statistical modeling, and predictive analytics, delivering data- driven solutions that improved efficiency by 30% across multiple projects.
+-	Expert in Python, R, and SQL, with a strong foundation in data preprocessing, feature engineering, and model optimization, enhancing model accuracy by 40% and reducing processing time for 10,000+ datasets.
+-	Experience with cloud platforms (AWS, Azure) and big data technologies (Spark, Hadoop) to build and deploy scalable machine learning models processing 1M+ data points daily.
+-	Strong analytical and optimization skills, leveraging EDA, hypothesis testing, and data visualization (Tableau, Matplotlib, Seaborn) to uncover trends and insights, leading to a 30% improvement in decision-making speed.
+ 
 
 ---
 
@@ -66,6 +66,19 @@ Git | GitHub | GitLab | Agile (Scrum/Kanban) | JIRA
 ---
 
 ## 💼 Professional Experience    
+
+### Data Scientist, Vision Xperts 
+*Feb 2025 – Aug 2025 |USA*  
+-	Engineered end-to-end machine learning models to optimize predictive analytics, significantly enhancing decision-making capabilities across business units and improving operational efficiency by 30%.
+-	Architected robust ETL pipelines, integrating structured and unstructured data sources, which decreased data processing time by 40%
+and streamlined enterprise-wide reporting.
+-	Developed NLP-based sentiment analysis models, automating customer feedback classification and reducing manual effort in customer service workflows by 25%.
+-	Designed anomaly detection algorithms for fraud prevention, leveraging advanced statistical methods and deep learning techniques to enhance fraud detection capabilities while maintaining a 98% precision rate.
+-	Implemented deep learning models using TensorFlow and PyTorch for computer vision tasks, optimizing real-time image classification and eliminating redundancies intervention in data annotation processes.
+-	Established A/B testing methodologies for product optimization, analyzing feature performance and user engagement trends to refine marketing strategies and enhance conversion rates.
+- Automated data pipeline orchestration using Apache Airflow and Kubernetes, ensuring seamless data flow and reducing dependency on manual workflows by 30%.
+-	Leveraged Hadoop and Spark for distributed data processing and feature engineering, enabling faster model training on large-scale datasets.
+ 
 
 ### Application Developer, (Project: WPP-USA), IBM 
 *June 2019 – Jul 2023 |India*  
